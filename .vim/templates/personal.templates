@@ -1,0 +1,20 @@
+§ =============================================================
+§  Personal Information
+§ =============================================================
+
+SetMacro( 'AUTHOR',       'Wilfredo Dioneda' )
+SetMacro( 'AUTHORREF',    'n/a' )
+SetMacro( 'EMAIL',        'willdioneda@gmail.com' )
+SetMacro( 'ORGANIZATION', '' )
+SetMacro( 'COMPANY',      'n/a' )
+SetMacro( 'COPYRIGHT',    'Copyright (c) |YEAR|, |AUTHOR|' )
+SetMacro( 'LICENSE',      'GNU General Public License' )
+
+§ =============================================================
+§  Date and Time Format
+§ =============================================================
+
+§SetFormat( 'DATE', '%x' )
+§SetFormat( 'TIME', '%H:%M' )
+§SetFormat( 'YEAR', '%Y' )
+

@@ -1,0 +1,1 @@
+/usr/share/vim/vimfiles/misc/notes/shadow/Note taking syntax
